@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		85914F172FFB9ACD001B8423 /* Charts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Charts.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		85914F172FFB9ACD001B8423 /* SwiftCharts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftCharts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		85914F192FFB9ACD001B8423 /* Charts */ = {
+		85914F192FFB9ACD001B8423 /* SwiftCharts */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Charts;
+			path = SwiftCharts;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		85914F0E2FFB9ACD001B8423 = {
 			isa = PBXGroup;
 			children = (
-				85914F192FFB9ACD001B8423 /* Charts */,
+				85914F192FFB9ACD001B8423 /* SwiftCharts */,
 				85914F182FFB9ACD001B8423 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		85914F182FFB9ACD001B8423 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				85914F172FFB9ACD001B8423 /* Charts.app */,
+				85914F172FFB9ACD001B8423 /* SwiftCharts.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		85914F162FFB9ACD001B8423 /* Charts */ = {
+		85914F162FFB9ACD001B8423 /* SwiftCharts */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 85914F222FFB9ACE001B8423 /* Build configuration list for PBXNativeTarget "Charts" */;
+			buildConfigurationList = 85914F222FFB9ACE001B8423 /* Build configuration list for PBXNativeTarget "SwiftCharts" */;
 			buildPhases = (
 				85914F132FFB9ACD001B8423 /* Sources */,
 				85914F142FFB9ACD001B8423 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				85914F192FFB9ACD001B8423 /* Charts */,
+				85914F192FFB9ACD001B8423 /* SwiftCharts */,
 			);
-			name = Charts;
+			name = SwiftCharts;
 			packageProductDependencies = (
 			);
 			productName = Charts;
-			productReference = 85914F172FFB9ACD001B8423 /* Charts.app */;
+			productReference = 85914F172FFB9ACD001B8423 /* SwiftCharts.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 85914F122FFB9ACD001B8423 /* Build configuration list for PBXProject "Charts" */;
+			buildConfigurationList = 85914F122FFB9ACD001B8423 /* Build configuration list for PBXProject "SwiftCharts" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				85914F162FFB9ACD001B8423 /* Charts */,
+				85914F162FFB9ACD001B8423 /* SwiftCharts */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		85914F122FFB9ACD001B8423 /* Build configuration list for PBXProject "Charts" */ = {
+		85914F122FFB9ACD001B8423 /* Build configuration list for PBXProject "SwiftCharts" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				85914F202FFB9ACE001B8423 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		85914F222FFB9ACE001B8423 /* Build configuration list for PBXNativeTarget "Charts" */ = {
+		85914F222FFB9ACE001B8423 /* Build configuration list for PBXNativeTarget "SwiftCharts" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				85914F232FFB9ACE001B8423 /* Debug */,
